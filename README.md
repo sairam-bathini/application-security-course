@@ -32,7 +32,6 @@ Understand the foundations of Application Security and why organizations invest 
 
 * What is Application Security?
 * Why Application Security Matters?
-* Application Security vs Network Security
 
 ### 1.2 Basic Security Concepts
 
@@ -48,7 +47,6 @@ Understand the foundations of Application Security and why organizations invest 
 * Single Page Applications (SPA)
 * APIs
 * Microservices
-* Cloud-Native Applications
 
 ### 1.4 Real-World Security Breaches
 
@@ -148,17 +146,6 @@ Master the most common and critical application security vulnerabilities.
 * Data Leakage
 * Insecure Storage
 
-### File Upload Vulnerabilities
-
-* Arbitrary File Upload
-* Web Shell Upload
-* MIME Type Bypass
-
-### SSRF
-
-* Internal Resource Access
-* Cloud Metadata Exploitation
-
 ### IDOR
 
 * Object Reference Manipulation
@@ -230,7 +217,6 @@ Develop a secure builder mindset and learn how security integrates into modern d
 
 * Pipeline Security
 * Secret Management
-* Artifact Security
 
 ---
 
