@@ -1,31 +1,5 @@
 # GitHub for Application Security Engineers
 
-> A comprehensive hands-on guide for learning GitHub from an Application Security (AppSec) and DevSecOps perspective.
-
----
-
-# Course Overview
-
-## Course Duration
-
-| Module | Topic | Duration |
-|----------|------------------------------|----------|
-| 1 | Introduction to Git & GitHub | 30 min |
-| 2 | Repository Basics | 30 min |
-| 3 | Branches & Pull Requests | 45 min |
-| 4 | GitHub Actions | 1 hour |
-| 5 | GitHub Secrets | 30 min |
-| 6 | Secret Scanning | 45 min |
-| 7 | Dependabot | 45 min |
-| 8 | Code Scanning (CodeQL) | 1 hour |
-| 9 | Branch Protection Rules | 30 min |
-| 10 | GitHub Security Tab | 30 min |
-| 11 | End-to-End DevSecOps Demo | 1.5 hours |
-
-**Total Duration:** ~8 Hours
-
----
-
 # Learning Objectives
 
 After completing this course, students will be able to:
