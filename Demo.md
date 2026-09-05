@@ -1,8 +1,4 @@
 # 🚀 Application Security Bootcamp - Demo Class (Day 1)
-
-> **Audience:** 2nd Year B.Tech Student (1-on-1 Demo)
->
-> **Duration:** 90-120 Minutes
 >
 > **Objective:** Introduce the student to Cybersecurity and Application Security in a simple and engaging way.
 
