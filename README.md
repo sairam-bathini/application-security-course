@@ -126,7 +126,6 @@ Master the most common and critical application security vulnerabilities.
 
 * Error-Based SQLi
 * Union-Based SQLi
-* Blind SQLi
 
 ### Cross-Site Scripting (XSS)
 
@@ -314,7 +313,6 @@ Develop practical offensive security skills for modern web applications and APIs
 ## 5.3 Practical Labs
 
 * OWASP Juice Shop
-* DVWA
 * PortSwigger Labs
 * Vulnerable APIs
 
@@ -341,36 +339,6 @@ Build foundational SOC skills and provide an alternative career path in Security
 * SOC Overview
 * SOC Roles & Responsibilities
 * SOC Workflow
-
-### Incident Response
-
-* Detection
-* Investigation
-* Containment
-* Recovery
-
-### Log Analysis
-
-* Log Sources
-* Log Review Techniques
-
-### Endpoint Security
-
-* EDR Concepts
-* CrowdStrike Concepts
-
-### Alert Triage
-
-* Alert Investigation
-* False Positive Analysis
-* Escalation Procedures
-
-### Outcome
-
-* Security Analyst Readiness
-* SOC Analyst Readiness
-
----
 
 # Module 7: IAM & Authentication Security
 
@@ -420,48 +388,10 @@ Understand identity and access management concepts used in modern applications.
 
 ---
 
-## Common Authentication Attacks
-
-### Session Hijacking
-
-* Session Theft
-* Session Fixation
-
-### Token Misuse
-
-* Token Leakage
-* JWT Vulnerabilities
-
 ### Broken Authentication
 
 * Credential Attacks
 * MFA Bypass
-
----
-
-# 🏆 Final Capstone Project
-
-Students will perform a complete Application Security Assessment including:
-
-* Application Reconnaissance
-* Threat Modeling
-* Web Security Testing
-* API Security Testing
-* Secure Code Review
-* Vulnerability Reporting
-* Risk Rating
-* Remediation Recommendations
-
----
-
-# 📚 Recommended Labs
-
-* OWASP Juice Shop
-* DVWA
-* PortSwigger Web Security Academy
-* OWASP WebGoat
-* Damn Vulnerable API (DVAPI)
-
 ---
 
 # 🎯 Career Paths After Completion
@@ -471,5 +401,4 @@ Students will perform a complete Application Security Assessment including:
 * DevSecOps Engineer
 * Secure Code Reviewer
 * Vulnerability Assessment Engineer
-* SOC Analyst
 * Security Consultant
